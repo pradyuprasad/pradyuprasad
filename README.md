@@ -4,7 +4,7 @@ Hi this is Pradyumna! This is a list of my current projects, previous work, and 
 I am studying Computer Science at the National University of Singapore, graduating in 2027. I'm also a member of the NUS College program which is a successor to the University Scholars Program.
 
 # Milton (In progress)
-- [Repo link]](https://github.com/pradyuprasad/milton). 
+- [Repo link](https://github.com/pradyuprasad/milton). 
 I am building an AI agent for macroeconomic research. The AI agent exhibits the following capacities
 - It can split a complex task into multiple subtasks
 - It can autonomously execute those tasks and await for user approval
