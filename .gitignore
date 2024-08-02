@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+
+# Unignore README.md file
+!README.md
+
+# Unignore .gitignore file
+!.gitignore
+
