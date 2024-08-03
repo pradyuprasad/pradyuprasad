@@ -40,8 +40,8 @@ I am studying Computer Science at the National University of Singapore, graduati
 
 ## Other writing
 - Lead writer of [an article](https://asteriskmag.com/issues/06/when-rand-made-magic-in-santa-monica) in the magazine Asterisk explaining why the think-tank RAND was so successful.
-- Co-authored [analysis]((https://forum.effectivealtruism.org/posts/E2BghQq9pwPgtHgiH/war-between-the-us-and-china-a-case-study-for-epistemic)) explaining the case for more investment into China studies in the US
-- Wrote [article with case studies](https://chartercitiesinstitute.org/blog-posts/engineering-industrial-takeoff-in-a-charter-city/) case studies of successful industrial policy in charter city-like environments, and how those provide lessons for founders of new charter cities today.
+- Co-authored [analysis](https://forum.effectivealtruism.org/posts/E2BghQq9pwPgtHgiH/war-between-the-us-and-china-a-case-study-for-epistemic) explaining the case for more investment into China studies in the US
+- Wrote [article with case studies](https://chartercitiesinstitute.org/blog-posts/engineering-industrial-takeoff-in-a-charter-city/) of successful industrial policy in charter city-like environments, and how those provide lessons for founders of new charter cities today.
 
 # Awards and other achievements
 1. [Recipient](https://marginalrevolution.com/marginalrevolution/2022/03/emergent-ventures-winners-eighteenth-cohort.html) of the Emergent Ventures fellowship for blog and podcast.
