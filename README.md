@@ -3,6 +3,14 @@ Hi this is Pradyumna! This is a list of my current projects, previous work, and 
 # Education 
 I am studying Computer Science at the National University of Singapore, graduating in 2027. I'm also a member of the NUS College program which is a successor to the University Scholars Program.
 
+# Experience
+Software Engineer Intern, [Havana](https://www.tryhavana.com)
+• Developed an admin dashboard to monitor Salesforce sync errors, significantly improving error tracking
+and resolution efficiency across teams
+• Created a tool for Salesforce issue testing, enabling team-specific troubleshooting and real-time error
+reporting
+• Technologies used: Go, React, Next.js
+
 # Milton (In progress)
 - [Repo link](https://github.com/pradyuprasad/milton). AI agent for macroeconomic research. The AI agent exhibits the following capacities
 - It can split a complex task into multiple subtasks
