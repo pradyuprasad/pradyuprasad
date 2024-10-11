@@ -11,14 +11,6 @@ and resolution efficiency across teams
 reporting
 • Technologies used: Go, React, Next.js
 
-# Milton (In progress)
-- [Repo link](https://github.com/pradyuprasad/milton). AI agent for macroeconomic research. The AI agent exhibits the following capacities
-- It can split a complex task into multiple subtasks
-- It can autonomously execute those tasks and await for user approval
-- The agent can
-  * search for datasets, rank them and extract relevant ones
-  * based on the previously searched datasets, write code to answer the user's query
-  * generate graphs based on the data
 
 # Singapore Data Project
 - [Repository link](https://github.com/pradyuprasad/Singapore-Data-Project). [Demo link](https://sgdataproject-frontend.onrender.com/).
