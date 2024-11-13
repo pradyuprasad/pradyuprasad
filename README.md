@@ -1,5 +1,7 @@
 Hi this is Pradyumna! This is a list of my current projects, previous work, and other accomplishments.
 
+You can contact me at pradyu.sp at gmail dot com
+
 # Education 
 I am studying Computer Science at the National University of Singapore, graduating in 2027. I'm also a member of the NUS College program which is a successor to the University Scholars Program.
 
