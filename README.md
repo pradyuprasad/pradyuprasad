@@ -14,6 +14,11 @@ reporting
 • Technologies used: Go, React, Next.js
 
 
+# Mechanistic Interpretability Survey paper
+- Paper for CS2309: "CS Research Methodology" about mechanistic interpretability [linked here](https://github.com/pradyuprasad/MechInterpLitReview)
+- Survey on techniques for reverse-engineering large language models (LLMs) to understand their internal computations
+
+
 # Singapore Data Project
 - [Repository link](https://github.com/pradyuprasad/Singapore-Data-Project). [Demo link](https://sgdataproject-frontend.onrender.com/).
 - Built automated querying system for Singapore's economic data to make data querying easier for non-technical users.
