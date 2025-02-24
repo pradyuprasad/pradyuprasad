@@ -1,55 +1,57 @@
-Hi this is Pradyumna! This is a list of my current projects, previous work, and other accomplishments.
+# Pradyumna Prasad
 
-You can contact me at pradyu.sp at gmail dot com
+Hi! I'm Pradyumna, a Computer Science student focused on building better software that makes our lives better.
 
-# Education 
-I am studying Computer Science at the National University of Singapore, graduating in 2027. I'm also a member of the NUS College program which is a successor to the University Scholars Program.
+## Current Work
 
-# Experience
-Software Engineer Intern, [Havana](https://www.tryhavana.com)
-• Developed an admin dashboard to monitor Salesforce sync errors, significantly improving error tracking
-and resolution efficiency across teams
-• Created a tool for Salesforce issue testing, enabling team-specific troubleshooting and real-time error
-reporting
-• Technologies used: Go, React, Next.js
+**Intern, Responsible AI Team, Government Technology Agency of Singapore**
+- Working on benchmarking and reducing hallucinations from LLMs for government chatbots
+- Developing evaluation frameworks to measure model accuracy and reliability
 
+## Featured Projects
 
-# Mechanistic Interpretability Survey paper
-- Paper for CS2309: "CS Research Methodology" about mechanistic interpretability [linked here](https://github.com/pradyuprasad/MechInterpLitReview)
-- Survey on techniques for reverse-engineering large language models (LLMs) to understand their internal computations
+**[LLM Debate Tournament](https://github.com/pradyuprasad/Calibrate_Debate)** (NEW)
+- Built a framework for evaluating LLM reasoning through structured multi-turn debates
+- Implemented a three-phase debate format with Swiss tournament system and ELO ratings
+- Benchmarked performance across major models (Claude, GPT-4o, Gemini, Llama, etc.)
+- Revealed genuine reasoning capabilities beyond pattern matching
+- Technologies: Python, OpenRouter API, XML parsing
 
+**[LockedIn - Personal Activity & Focus Tracker](https://github.com/pradyuprasad/LockedIn)**
+- Developed a productivity suite for macOS with activity tracking and focus sessions
+- Built real-time monitoring systems for application usage and web browsing
+- Created data visualization tools for analyzing productivity patterns
+- Technologies: Python, SQLite, macOS integration
 
-# Singapore Data Project
-- [Repository link](https://github.com/pradyuprasad/Singapore-Data-Project). [Demo link](https://sgdataproject-frontend.onrender.com/).
-- Built automated querying system for Singapore's economic data to make data querying easier for non-technical users.
-- Made AI pipeline using HuggingFace classification API, code-writing LLMs and access to SingStat data.
-- Build backend using FastAPI, and frontend graphing using d3.js
+**[Singapore Data Project](https://github.com/pradyuprasad/Singapore-Data-Project)** | [Live Demo](https://x.com/PradyuPrasad/status/1807744397469184099)
+- Built an automated querying system for Singapore's economic data using AI
+- Integrated HuggingFace classification API and code-writing LLMs with SingStat data
+- Technologies: FastAPI, d3.js, HuggingFace APIs
 
+**[Mechanistic Interpretability Research](https://github.com/pradyuprasad/MechInterpLitReview)**
+- Authored research paper on techniques for reverse-engineering large language models
+- Explored methods to understand internal computations of LLMs
 
-# Economics and related projects
-## Bretton Goods Podcast
-- Ran [economics podcast](https://open.spotify.com/show/5a29fQG0xEbPEdqSxQjMcQ) with a focus on development economics.
-- Over 10k streams
-- Over 500 listeners at peak
-- Interesting episodes
-  * [Tyler Cowen about economic growth in developing countries and the future of Singapore](https://open.spotify.com/episode/2khX9W0OdwF3viAYSnnYe5)
-  * [Byrne Hobart about the quality of American institutions](https://open.spotify.com/episode/7at3bJxuBfo4f8XeOXyTmD)
-## Bretton Goods newsletter
-- Wrote an [economics newsletter](https://brettongoods.substack.com/) focused on development economics.
-- Over 2,000 subscribers
-- Over 80,000 views
-- Read by policymakers in the Prime Minister's Office Singapore, leading financial dailies and financial institutions
-- Selected posts
-  * [Book review about the politics and economics of economics of development](https://brettongoods.substack.com/p/gambling-on-development-review)
-  * [Explanation of why Pakistan has so many economic crises](https://brettongoods.substack.com/p/pakistans-next-crisis-is-guaranteed)
-  * [Analysis of Auckland's YIMBY housing policy](https://brettongoods.substack.com/p/the-high-cost-of-expensive-housing)
-  * [Analysis of India's economic policies about climate change](https://brettongoods.substack.com/p/indias-climate-future-is-a-policy)
+## Experience
 
-## Other writing
-- Lead writer of [an article](https://asteriskmag.com/issues/06/when-rand-made-magic-in-santa-monica) in the magazine Asterisk explaining why the think-tank RAND was so successful.
-- Co-authored [analysis](https://forum.effectivealtruism.org/posts/E2BghQq9pwPgtHgiH/war-between-the-us-and-china-a-case-study-for-epistemic) explaining the case for more investment into China studies in the US
-- Wrote [article with case studies](https://chartercitiesinstitute.org/blog-posts/engineering-industrial-takeoff-in-a-charter-city/) of successful industrial policy in charter city-like environments, and how those provide lessons for founders of new charter cities today.
+**Software Engineer Intern, [Havana](https://www.tryhavana.com)**
+- Developed an admin dashboard to monitor Salesforce sync errors, significantly improving error tracking and resolution efficiency
+- Created a tool for Salesforce issue testing, enabling team-specific troubleshooting and real-time error reporting
+- Technologies: Go, React, Next.js
 
-# Awards and other achievements
-1. [Recipient](https://marginalrevolution.com/marginalrevolution/2022/03/emergent-ventures-winners-eighteenth-cohort.html) of the Emergent Ventures fellowship for blog and podcast.
-2. Recipient of [Atlas Fellowship](https://www.atlasfellowship.org/) 
+## Education
+- Computer Science, National University of Singapore (Class of 2027)
+- Member of NUS College program (successor to University Scholars Program)
+
+## Awards & Recognition
+- [Emergent Ventures Fellowship](https://marginalrevolution.com/marginalrevolution/2022/03/emergent-ventures-winners-eighteenth-cohort.html) for economics blog and podcast
+- [Atlas Fellowship](https://www.atlasfellowship.org/) recipient
+
+## Writing & Media
+- **[Bretton Goods Podcast](https://open.spotify.com/show/5a29fQG0xEbPEdqSxQjMcQ)** - Economics podcast with over 10k streams
+- **[Bretton Goods Newsletter](https://brettongoods.substack.com/)** - 2,000+ subscribers, 80,000+ views
+- Published in **[Asterisk Magazine](https://asteriskmag.com/issues/06/when-rand-made-magic-in-santa-monica)** and other platforms
+
+## Connect With Me
+- Email: pradyu.sp@gmail.com
+- [X / Twitter](https://x.com/PradyuPrasad)
