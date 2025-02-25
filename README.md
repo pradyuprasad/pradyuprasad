@@ -28,9 +28,11 @@ Hi! I'm Pradyumna, a Computer Science student focused on building better softwar
 - Integrated HuggingFace classification API and code-writing LLMs with SingStat data
 - Technologies: FastAPI, d3.js, HuggingFace APIs
 
-**[Mechanistic Interpretability Research](https://github.com/pradyuprasad/MechInterpLitReview)**
-- Authored research paper on techniques for reverse-engineering large language models
+**[Mechanistic Interpretability Literature Review](https://github.com/pradyuprasad/MechInterpLitReview)**
+- Authored survey paper on techniques for reverse-engineering large language models
 - Explored methods to understand internal computations of LLMs
+- (I promise I did this before DeepResearch came out)
+
 
 ## Experience
 
